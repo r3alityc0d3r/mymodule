@@ -1,0 +1,15 @@
+{
+  "name": "r3alityc0d3r-mymodule",
+  "version": "0.1.0",
+  "author": "r3alityc0d3r",
+  "summary": "Simple module that really doesnt do anything for demonstrating testing puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/r3alityc0d3r/mymodule",
+  "project_page": "https://github.com/r3alityc0d3r/mymodule/wiki",
+  "issues_url": "https://github.com/r3alityc0d3r/mymodule/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
